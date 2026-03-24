@@ -1,0 +1,356 @@
+dd5725782de7b9d225d9375c51d211097ace82aa	not-for-merge	branch 'master' of https://github.com/nette/utils
+d9234d5cf7e2d1349d18e0a39b375ea00077c4bc	not-for-merge	branch 'v2.2' of https://github.com/nette/utils
+f213ad4d9dfb7221322bd2808e2004b61c8ece8e	not-for-merge	branch 'v2.3' of https://github.com/nette/utils
+89a88fc36f5bb76f9355ed8a09820cefcbb0af39	not-for-merge	branch 'v2.4' of https://github.com/nette/utils
+7345f81181346ff6244891bdb1ba99f9e36b5e37	not-for-merge	branch 'v2.5' of https://github.com/nette/utils
+273689f6736673b34b94dbe1a5d4cdd01e6b8b15	not-for-merge	branch 'v3.0' of https://github.com/nette/utils
+2c8d1628317fddc692d90fd7732e3dd98327dbf0	not-for-merge	branch 'v3.1' of https://github.com/nette/utils
+b433959cb129b9d4f15d26b9138c7d2b62a3d757	not-for-merge	branch 'v3.2' of https://github.com/nette/utils
+64a39bdf422182113d799ed244c3084679b1e186	not-for-merge	branch 'v4.0' of https://github.com/nette/utils
+9c4a2910e3529bf5f9060b3d97341f39cfed1909	not-for-merge	'refs/pull/1/head' of https://github.com/nette/utils
+422104a7a0c7391f1687616ac7ba49c8e518dd9f	not-for-merge	'refs/pull/10/head' of https://github.com/nette/utils
+081a5a47564eb418b928ec237c62ee8c1a6aca1f	not-for-merge	'refs/pull/101/head' of https://github.com/nette/utils
+095fe28f6b6fa3a4d67b68d030c2cd9e77b1ccd6	not-for-merge	'refs/pull/101/merge' of https://github.com/nette/utils
+42c40c9db939e02079fe9d0a1959d9e799a72404	not-for-merge	'refs/pull/102/head' of https://github.com/nette/utils
+119ad98336b52e60a5f64c2ee2b461958e809bb7	not-for-merge	'refs/pull/102/merge' of https://github.com/nette/utils
+dfb4dac23321d88d1a32f8680a1f65694143114d	not-for-merge	'refs/pull/105/head' of https://github.com/nette/utils
+c98a4c4d878eab0e5821bce0ce62628e00081ccd	not-for-merge	'refs/pull/106/head' of https://github.com/nette/utils
+75a0b002b1d5548fe5726e850c52b3f6b27d3724	not-for-merge	'refs/pull/106/merge' of https://github.com/nette/utils
+2fd3169796d4d68241c6ecee850d5dbb4c3d39e1	not-for-merge	'refs/pull/108/head' of https://github.com/nette/utils
+a69ae7385d46ebe6e1415a3af8f7341c92437e96	not-for-merge	'refs/pull/108/merge' of https://github.com/nette/utils
+c5981700106ef5d56f5a45d680ad9d3af79041c2	not-for-merge	'refs/pull/11/head' of https://github.com/nette/utils
+5a3dc74b3076c5ba8f272be8290a287b38983242	not-for-merge	'refs/pull/111/head' of https://github.com/nette/utils
+6d32e677479f503c0a7415660e81a0979efbc9c0	not-for-merge	'refs/pull/113/head' of https://github.com/nette/utils
+1626ba8771baaa88cdc5fca398c0cf9596c4034b	not-for-merge	'refs/pull/115/head' of https://github.com/nette/utils
+fb5c02208a37f8cba507934c5a9de48441e3fae2	not-for-merge	'refs/pull/116/head' of https://github.com/nette/utils
+20e1f71aa60bf4b75573b5c030cf6e63da54fd1d	not-for-merge	'refs/pull/116/merge' of https://github.com/nette/utils
+71c2f01c7539512716f6f5e13fa488ff81aa8a82	not-for-merge	'refs/pull/12/head' of https://github.com/nette/utils
+b59ca37e9b61666a1b51bf8756c30d1168e85e69	not-for-merge	'refs/pull/12/merge' of https://github.com/nette/utils
+901a115081e9b2a99ca3588ce6ede8cee7e7d538	not-for-merge	'refs/pull/120/head' of https://github.com/nette/utils
+17a7c97c29f0c8ffcfa26fa4f0a96a83f05d7144	not-for-merge	'refs/pull/121/head' of https://github.com/nette/utils
+279d9295363a3aa230c1ca5e347b1787dde17bd4	not-for-merge	'refs/pull/121/merge' of https://github.com/nette/utils
+812b3f5257722a386e79062223c0fc1e7812ddd1	not-for-merge	'refs/pull/122/head' of https://github.com/nette/utils
+4bbe23f6f6322d348648c1a0d6d4d258a328bb37	not-for-merge	'refs/pull/123/head' of https://github.com/nette/utils
+68fb7f49dd38e573875dabeeaa06346b9ae87594	not-for-merge	'refs/pull/123/merge' of https://github.com/nette/utils
+52422af55dd5bfa36d0f6605258dda3be454d001	not-for-merge	'refs/pull/124/head' of https://github.com/nette/utils
+c16d127c5a19c008517bbe2e11963996319be5ec	not-for-merge	'refs/pull/125/head' of https://github.com/nette/utils
+fc6583d47f7aa5f1703b63ee2d3fd4d2b455b92f	not-for-merge	'refs/pull/127/head' of https://github.com/nette/utils
+00260415cc67e7a468c760575265260e2e898f00	not-for-merge	'refs/pull/127/merge' of https://github.com/nette/utils
+7229d32ae50f3b2a4dca7aafafc1176c13ee808f	not-for-merge	'refs/pull/129/head' of https://github.com/nette/utils
+fa3064a6ff44e97f55dd96ce8f99cb7ba7e458e9	not-for-merge	'refs/pull/13/head' of https://github.com/nette/utils
+9a4bd17f3a27d90c486e42d758b1b39b1384c3dd	not-for-merge	'refs/pull/13/merge' of https://github.com/nette/utils
+29bca4900a48c4c412c51e0fe142e9f3bfdbc2b6	not-for-merge	'refs/pull/131/head' of https://github.com/nette/utils
+295d7dd1597fe48dfcb13bd2e13b1e5376b17776	not-for-merge	'refs/pull/132/head' of https://github.com/nette/utils
+207ea60a6d3df8eb8d674f5eaac7c833518c5270	not-for-merge	'refs/pull/133/head' of https://github.com/nette/utils
+39358c9212d4d008302f1d25869825edf54c9db9	not-for-merge	'refs/pull/133/merge' of https://github.com/nette/utils
+8633a8dd24fa03a8679177cd43a2a3c6db60aaa9	not-for-merge	'refs/pull/134/head' of https://github.com/nette/utils
+fb4f97f7d9f93d0dcb0a486c4f1d892d5ee04fe8	not-for-merge	'refs/pull/135/head' of https://github.com/nette/utils
+308fe87d43bc0163ae757198712d593f1c38566d	not-for-merge	'refs/pull/135/merge' of https://github.com/nette/utils
+3ff65331a1edc19cfc619530199452a3ec0e795e	not-for-merge	'refs/pull/136/head' of https://github.com/nette/utils
+1a592cd05c9931f4ce68a2e6c259f93ad2da79fc	not-for-merge	'refs/pull/137/head' of https://github.com/nette/utils
+2a9bd0c02a7e433637947757a3d1718f53573345	not-for-merge	'refs/pull/137/merge' of https://github.com/nette/utils
+e7b023fec719cc6612ff9a0b23f5d3aa9d76dead	not-for-merge	'refs/pull/139/head' of https://github.com/nette/utils
+4f006087962fa8ecfd15b4b3b8dd082558da35fc	not-for-merge	'refs/pull/14/head' of https://github.com/nette/utils
+1f14831d002de0b5f1bf3c504ee41fec92cfbb13	not-for-merge	'refs/pull/14/merge' of https://github.com/nette/utils
+69d4b767bc27afe9ef9de37fca471672535e44a2	not-for-merge	'refs/pull/141/head' of https://github.com/nette/utils
+dc4833f4f00eaf54f1d925a086085e7e160a47e2	not-for-merge	'refs/pull/141/merge' of https://github.com/nette/utils
+3a10f7bd862e2e6f00a2159caa2d96fcced78624	not-for-merge	'refs/pull/142/head' of https://github.com/nette/utils
+b43bbc9b9c4851042e0b6f09d2638c225f926f92	not-for-merge	'refs/pull/142/merge' of https://github.com/nette/utils
+0df40a53fbfaf23f47b7085fe605f5cb95466669	not-for-merge	'refs/pull/143/head' of https://github.com/nette/utils
+b26917a87a52b452acc2fefe65380b2629e469cc	not-for-merge	'refs/pull/143/merge' of https://github.com/nette/utils
+70a232253b3935c9aef422436e9f3f85771ff4f2	not-for-merge	'refs/pull/144/head' of https://github.com/nette/utils
+b2e0c3cd90ff9add037807669dc35db7733a622c	not-for-merge	'refs/pull/145/head' of https://github.com/nette/utils
+ebffa5c12d9edb9a401e36f98197af7c2eb4c0fc	not-for-merge	'refs/pull/145/merge' of https://github.com/nette/utils
+077b32e9e5dd0be3e23a591730f871531f5d3f21	not-for-merge	'refs/pull/147/head' of https://github.com/nette/utils
+5f8cdca4cab715fe7d2ea6eef6a3f078db0d44f6	not-for-merge	'refs/pull/147/merge' of https://github.com/nette/utils
+bb3a69cac366baa5ec7a5875099e12a12b48f9e2	not-for-merge	'refs/pull/150/head' of https://github.com/nette/utils
+bcb222cbc50bf5b1867a499406d2bcd9e1104cb6	not-for-merge	'refs/pull/152/head' of https://github.com/nette/utils
+bb910d0e42feecf45155a6aef81dc08e830c75ec	not-for-merge	'refs/pull/152/merge' of https://github.com/nette/utils
+5dc35ca6d40f5ec980037dfa4ecb4298e527cf42	not-for-merge	'refs/pull/155/head' of https://github.com/nette/utils
+05a3f3cdcdfdcd9b745629b4cf04c8958590db8e	not-for-merge	'refs/pull/156/head' of https://github.com/nette/utils
+f5ff2ac6729f8da20943eb9d45451f3ead07eb79	not-for-merge	'refs/pull/157/head' of https://github.com/nette/utils
+99e2acff96bdb1f70266c8af21e9fb6275cec495	not-for-merge	'refs/pull/157/merge' of https://github.com/nette/utils
+bccce5e08e57bb5c62576e031d211258722be2c9	not-for-merge	'refs/pull/159/head' of https://github.com/nette/utils
+c6801baf72820246e764c25ebdbf7511752c53a6	not-for-merge	'refs/pull/161/head' of https://github.com/nette/utils
+164cbb1799c08b11002100bc1bec3fa2acdbd11b	not-for-merge	'refs/pull/162/head' of https://github.com/nette/utils
+bc3569aee31dfa13b5a807ec35e4516684b1a6a5	not-for-merge	'refs/pull/162/merge' of https://github.com/nette/utils
+02518d45a86a9502d446ef727d77704b1ac1a30a	not-for-merge	'refs/pull/165/head' of https://github.com/nette/utils
+d3365c1af113669adac4c6f2c01d8dc8a6826ebe	not-for-merge	'refs/pull/165/merge' of https://github.com/nette/utils
+ee6fb6c7396634ce1b39a312667a00e2d88276ee	not-for-merge	'refs/pull/167/head' of https://github.com/nette/utils
+84e965d618849c3abea80624a98864d40bb04fd8	not-for-merge	'refs/pull/169/head' of https://github.com/nette/utils
+6476c2419e80f13b9cc5a479d3e7a53a82be0c77	not-for-merge	'refs/pull/169/merge' of https://github.com/nette/utils
+a7efe90e3068de895dd6e3a23c383e2bbe30ab8f	not-for-merge	'refs/pull/17/head' of https://github.com/nette/utils
+d9424a2ce664d22065e987881f02e40ccfa480b9	not-for-merge	'refs/pull/17/merge' of https://github.com/nette/utils
+e5f0eacaeae47d9f0e12137171c0700627ee881d	not-for-merge	'refs/pull/170/head' of https://github.com/nette/utils
+7680d96ac6ea2d05d8e86781afcb10be0061c84d	not-for-merge	'refs/pull/171/head' of https://github.com/nette/utils
+8288ab780a2cc9e9a49686d74b675dd39b397b27	not-for-merge	'refs/pull/171/merge' of https://github.com/nette/utils
+7fbe27150fc82fd04965ff7042a182b44d848491	not-for-merge	'refs/pull/172/head' of https://github.com/nette/utils
+915214cd288f2c484be01a7102079435efc9e87b	not-for-merge	'refs/pull/173/head' of https://github.com/nette/utils
+90231b6b7c15d667c4e3459acd3479996aa6a0a8	not-for-merge	'refs/pull/173/merge' of https://github.com/nette/utils
+7b3c7620610d8830de2cff7162708f4632d21e95	not-for-merge	'refs/pull/174/head' of https://github.com/nette/utils
+08b2c79ed1a7b1c73c847482eb4e4244f9ac72d3	not-for-merge	'refs/pull/174/merge' of https://github.com/nette/utils
+e6ebce44bd9bb341767f879d5f23de59a4b295f8	not-for-merge	'refs/pull/178/head' of https://github.com/nette/utils
+6cf45af0d51cb1ee6854c7f1b321f391ea71baa5	not-for-merge	'refs/pull/18/head' of https://github.com/nette/utils
+08a078be4e59494a78ab87b3f710e56060e3a8b8	not-for-merge	'refs/pull/18/merge' of https://github.com/nette/utils
+085555e6b9d1605a38d4048920533c66b0ae42f9	not-for-merge	'refs/pull/180/head' of https://github.com/nette/utils
+8333640fc905879fbbc14c53745d753d6a686e2f	not-for-merge	'refs/pull/181/head' of https://github.com/nette/utils
+ee5e294f151efda2933d57e9f811107ad9381985	not-for-merge	'refs/pull/182/head' of https://github.com/nette/utils
+db4af15d644df1db10179d38b3383c19114e30dd	not-for-merge	'refs/pull/184/head' of https://github.com/nette/utils
+5716f6d4b6d51cabeb56ca0b7e870d68c852aa4d	not-for-merge	'refs/pull/185/head' of https://github.com/nette/utils
+976768405f0a649dbdea542aa4bd540d0e242289	not-for-merge	'refs/pull/188/head' of https://github.com/nette/utils
+b3df3ef2ad070bd0973a0809073564a58f803b7c	not-for-merge	'refs/pull/19/head' of https://github.com/nette/utils
+d028e148cc36cef2f77bc9bbe5d73f4306ace34c	not-for-merge	'refs/pull/19/merge' of https://github.com/nette/utils
+f2d7de76fa430c2315f377232a88e2dbc2d2e8f3	not-for-merge	'refs/pull/192/head' of https://github.com/nette/utils
+f80ac7cc96b3d14af49bc2fe87bd313474831e76	not-for-merge	'refs/pull/193/head' of https://github.com/nette/utils
+f58a361c8bad0f22d95f8ec5f63ffbaf23aec8b2	not-for-merge	'refs/pull/194/head' of https://github.com/nette/utils
+b3c1a0aa89131e01bfe88393fbb45f2bc8f362d3	not-for-merge	'refs/pull/195/head' of https://github.com/nette/utils
+2a28f3fdd1735c4d3ae1d6e0b76d645c3966cd3c	not-for-merge	'refs/pull/196/head' of https://github.com/nette/utils
+73b9fa8d188b1381f9aab825ab43445509df9625	not-for-merge	'refs/pull/197/head' of https://github.com/nette/utils
+f9a9165f920fdbf41d5a6ab761d0a3fefca2cbb9	not-for-merge	'refs/pull/198/head' of https://github.com/nette/utils
+e153f64d8dd1a64d55d3fd56e61220036949717d	not-for-merge	'refs/pull/2/head' of https://github.com/nette/utils
+15d9ca107158183988e18ad871fe9f9c81486b36	not-for-merge	'refs/pull/2/merge' of https://github.com/nette/utils
+3dcfd882cac54aef4808bec5b4f482405e6e1c03	not-for-merge	'refs/pull/20/head' of https://github.com/nette/utils
+35660a49e7d24792c8fc4f39de26bd2139e0c824	not-for-merge	'refs/pull/20/merge' of https://github.com/nette/utils
+a3308e23f1826dc8223f3c45c14493d8ca33eaff	not-for-merge	'refs/pull/200/head' of https://github.com/nette/utils
+8eaf2ec497ca83ed70ef7c4943aae023594d7833	not-for-merge	'refs/pull/205/head' of https://github.com/nette/utils
+1724733141c2ecdd65f83a021a7caba69301a520	not-for-merge	'refs/pull/210/head' of https://github.com/nette/utils
+f21972364fee9b43155b3c518865a354b9c3e374	not-for-merge	'refs/pull/212/head' of https://github.com/nette/utils
+2d831edf4864a030bfd72289b385cb0a3f7b91b8	not-for-merge	'refs/pull/213/head' of https://github.com/nette/utils
+87af28ad6a6cde4c3510d53357a91223e48df393	not-for-merge	'refs/pull/214/head' of https://github.com/nette/utils
+524f490c1a4044011214be49569480f78b14d500	not-for-merge	'refs/pull/217/head' of https://github.com/nette/utils
+3afb2ec674c0fbc5302a4bf5e595664c8eec7267	not-for-merge	'refs/pull/218/head' of https://github.com/nette/utils
+80d30f8838d640de14722156c9c283a552a318ee	not-for-merge	'refs/pull/22/head' of https://github.com/nette/utils
+28df12d5fbb8be75abca418b1a570ca9d13c6035	not-for-merge	'refs/pull/22/merge' of https://github.com/nette/utils
+80fd7fe1c5cb362911f6c77fb15a35d02f6598c7	not-for-merge	'refs/pull/221/head' of https://github.com/nette/utils
+aa4cda2c581fbdfbb8faf5a8d03d45b693448328	not-for-merge	'refs/pull/222/head' of https://github.com/nette/utils
+1657ff0163c39cc8bd23ba650811203166e17c32	not-for-merge	'refs/pull/224/head' of https://github.com/nette/utils
+8ad5258b1a98513e3f1003a70d69d3158a4ae8fb	not-for-merge	'refs/pull/225/head' of https://github.com/nette/utils
+9875f24cc3ba29d15cdc43536cb92db26a442939	not-for-merge	'refs/pull/226/head' of https://github.com/nette/utils
+834db9bacf4172e70228b59951ada47be3bb09d3	not-for-merge	'refs/pull/227/head' of https://github.com/nette/utils
+b34dbdba72d3a7ef3949d28cc1ebedcbe0b28413	not-for-merge	'refs/pull/232/head' of https://github.com/nette/utils
+012fb368758235573176f28a1ec2ae936015b61e	not-for-merge	'refs/pull/237/head' of https://github.com/nette/utils
+e010e15e21df7e36708fff79ad08df5782c9cc7e	not-for-merge	'refs/pull/238/head' of https://github.com/nette/utils
+71e42988ee9cd23e7735881bf63a4a121c1b6c49	not-for-merge	'refs/pull/24/head' of https://github.com/nette/utils
+6dbeffe0959e612d0b4433d3ba288cb41db29416	not-for-merge	'refs/pull/240/head' of https://github.com/nette/utils
+45d9c449eb7d0d7cb072d272940446f82f8fdb03	not-for-merge	'refs/pull/244/head' of https://github.com/nette/utils
+6ffdb09544117d3542c3ff9b891bfcb719f94271	not-for-merge	'refs/pull/246/head' of https://github.com/nette/utils
+55c72265c9bc92528733a8b06441d8874b5e3576	not-for-merge	'refs/pull/246/merge' of https://github.com/nette/utils
+771834e102cd3c81f4ed0d73fba16783b2c12d53	not-for-merge	'refs/pull/247/head' of https://github.com/nette/utils
+09edabfe599388c713a42b3cc37bea972aaf9727	not-for-merge	'refs/pull/25/head' of https://github.com/nette/utils
+fbba85a5a31dae94bbeba0d4def2d3838e257c70	not-for-merge	'refs/pull/25/merge' of https://github.com/nette/utils
+332f40d3c25ff1d58cec1b17090000135a2197e7	not-for-merge	'refs/pull/250/head' of https://github.com/nette/utils
+879721c4fc9b7dbaa50a6645774f102b36212475	not-for-merge	'refs/pull/255/head' of https://github.com/nette/utils
+f39e278cc95a8b3c49a65e34a0fc60a0e76ce571	not-for-merge	'refs/pull/256/head' of https://github.com/nette/utils
+dd3195b88eafaa20573133ec94c5b81f20eefaf8	not-for-merge	'refs/pull/257/head' of https://github.com/nette/utils
+53927366f6a32f94e1b25c19f53d68f01ab67e65	not-for-merge	'refs/pull/26/head' of https://github.com/nette/utils
+2a611bed9272a25bc201e6040dbc6d60a85bfc58	not-for-merge	'refs/pull/260/head' of https://github.com/nette/utils
+cbdcefc9be7dba792da27cf8016429de7142c840	not-for-merge	'refs/pull/263/head' of https://github.com/nette/utils
+cd1f77724523a9f6986c124d70dffb3bdfa9051a	not-for-merge	'refs/pull/264/head' of https://github.com/nette/utils
+58655b986fa2a248dd1df658609b1a1f48360b80	not-for-merge	'refs/pull/268/head' of https://github.com/nette/utils
+1cbe252831209efd60614f72453aee8ba9792d68	not-for-merge	'refs/pull/269/head' of https://github.com/nette/utils
+4f02e8c7c2780ce049046f0adc1d22b21cc382bc	not-for-merge	'refs/pull/269/merge' of https://github.com/nette/utils
+22ed19c92a1ad0a08d492c8d030b4a0ef77cfe27	not-for-merge	'refs/pull/27/head' of https://github.com/nette/utils
+838ae949876b52f4a327942513ba6ec2df277bcc	not-for-merge	'refs/pull/272/head' of https://github.com/nette/utils
+c1b6f0acd984429a5c5883317b866d8ce0902e02	not-for-merge	'refs/pull/272/merge' of https://github.com/nette/utils
+d9e14fcd0509fa9aff34e3fab87b2fb57f7fed69	not-for-merge	'refs/pull/276/head' of https://github.com/nette/utils
+ef7c1e243ba325cdccd0264e86bff74795a704e3	not-for-merge	'refs/pull/277/head' of https://github.com/nette/utils
+e77da731c023a01a912f6349fe36760e136e8a89	not-for-merge	'refs/pull/279/head' of https://github.com/nette/utils
+9ebaf9a8fa349818bc2f0f9016b4f69e12b724d8	not-for-merge	'refs/pull/279/merge' of https://github.com/nette/utils
+0b09290ef07f2dc6a7c25568089a3410087db475	not-for-merge	'refs/pull/28/head' of https://github.com/nette/utils
+cdc966ebd10baf56cec427cecbd9340e328dd2f0	not-for-merge	'refs/pull/280/head' of https://github.com/nette/utils
+0484b39984c27fdefe24c042d428ea630edb2f89	not-for-merge	'refs/pull/283/head' of https://github.com/nette/utils
+eaa514b050800f951047b7afa2133cc288847c83	not-for-merge	'refs/pull/285/head' of https://github.com/nette/utils
+e32dd0b61801bf651526dede2fa9d6973bcc6292	not-for-merge	'refs/pull/286/head' of https://github.com/nette/utils
+712f0cfd27668dcc05dfca1e10d4167d4ebe2241	not-for-merge	'refs/pull/287/head' of https://github.com/nette/utils
+0e370cae945c0ecb17fa8aa71fd42f3d7419ba4b	not-for-merge	'refs/pull/287/merge' of https://github.com/nette/utils
+3fcfc676b22f477d6c98a295629e483a0c14de8d	not-for-merge	'refs/pull/288/head' of https://github.com/nette/utils
+83bd77872e2ce579e87f219c4ea7c1a90d97a4d6	not-for-merge	'refs/pull/289/head' of https://github.com/nette/utils
+5717d1eb5658b516ee19e5c85d8a23c16100e55a	not-for-merge	'refs/pull/29/head' of https://github.com/nette/utils
+ea5691d8b843fc9d1c6f1665ad53d41c13d5bca0	not-for-merge	'refs/pull/29/merge' of https://github.com/nette/utils
+509e515fffc4876b1b32adfa8b349280f2527412	not-for-merge	'refs/pull/290/head' of https://github.com/nette/utils
+dce7308fdcb76ce82b5dfced44e3a97d6cc343c3	not-for-merge	'refs/pull/293/head' of https://github.com/nette/utils
+db89e86c5e8582cb0014c886df51995ff38e02d3	not-for-merge	'refs/pull/294/head' of https://github.com/nette/utils
+242fedc05abf11439add8c8454722f278f98bb1d	not-for-merge	'refs/pull/295/head' of https://github.com/nette/utils
+3746d80d30cef5553a5bb561d53fb439c0ab8264	not-for-merge	'refs/pull/296/head' of https://github.com/nette/utils
+3e2185edb338ff22379d15c8cb1e69e7cd88e480	not-for-merge	'refs/pull/297/head' of https://github.com/nette/utils
+0253ee39e01a84b5850a569eda5f3d515e74ad8e	not-for-merge	'refs/pull/298/head' of https://github.com/nette/utils
+9b7ad80bfdb9db3e3d7d14f776cb329ba99ea7af	not-for-merge	'refs/pull/299/head' of https://github.com/nette/utils
+c41006583a4b81de25651454e19bd0368f10c3af	not-for-merge	'refs/pull/3/head' of https://github.com/nette/utils
+e0c0b614f9da129b4b20ac7ca71d396288bf9779	not-for-merge	'refs/pull/30/head' of https://github.com/nette/utils
+7b38aae789f19fd4f69ecb7cf6987b9ae4677969	not-for-merge	'refs/pull/30/merge' of https://github.com/nette/utils
+b572edc0715b6d0b6939868cedaa3fd985a27c8b	not-for-merge	'refs/pull/300/head' of https://github.com/nette/utils
+99bb6cdb286fb80670320d7ae4c0d68eed00d863	not-for-merge	'refs/pull/301/head' of https://github.com/nette/utils
+d333b0548b546fe61879b51c70ca930aa4ec5695	not-for-merge	'refs/pull/302/head' of https://github.com/nette/utils
+d6637b64f2c564e0a5dcd844f82ea61f681a9e49	not-for-merge	'refs/pull/303/head' of https://github.com/nette/utils
+df3210524e502772c975825593e193940bc4fbf3	not-for-merge	'refs/pull/304/head' of https://github.com/nette/utils
+face8299d4eaf35f443b3409db5cdb31e6f1b7c2	not-for-merge	'refs/pull/305/head' of https://github.com/nette/utils
+0d1508c344caea70a71467c3d25a6add9de613a0	not-for-merge	'refs/pull/306/head' of https://github.com/nette/utils
+4930b7e4259a9bac59baee6f9512dfaf278f1f39	not-for-merge	'refs/pull/308/head' of https://github.com/nette/utils
+4709ee2357c8142309e0b4a87f2a57d7cab97ff8	not-for-merge	'refs/pull/31/head' of https://github.com/nette/utils
+2d0e45d8e98cfdde73a1ab34b5fa9320465ab2b1	not-for-merge	'refs/pull/31/merge' of https://github.com/nette/utils
+4e47bae92d72e1c27ce26d2b3e8cbfc17fe3cc91	not-for-merge	'refs/pull/311/head' of https://github.com/nette/utils
+ef8d7b988c2b1aa2b09da63ac04dad36a84c8730	not-for-merge	'refs/pull/314/head' of https://github.com/nette/utils
+b271e7e4b05f90c4ee065c10cb3565ba257844d4	not-for-merge	'refs/pull/314/merge' of https://github.com/nette/utils
+b51558615e0b2eee8085acc88de389a5282e09bd	not-for-merge	'refs/pull/318/head' of https://github.com/nette/utils
+48e4ceb831b67a120676fb66f411a1433f705d36	not-for-merge	'refs/pull/323/head' of https://github.com/nette/utils
+e0b070d03c06d6df348dadd4e5a7697e20e99ca2	not-for-merge	'refs/pull/326/head' of https://github.com/nette/utils
+8e797724ae936decb1f6f2d0ca1d0f38248bafbc	not-for-merge	'refs/pull/333/head' of https://github.com/nette/utils
+37fb0a08eb9c450e6d9292ba1811b3d94d2fe544	not-for-merge	'refs/pull/335/head' of https://github.com/nette/utils
+187bd3a31b4bff05de3684217af8ca9131a2140f	not-for-merge	'refs/pull/336/head' of https://github.com/nette/utils
+acfb4a1a2952808f9d2739bc80e5ed82863cc416	not-for-merge	'refs/pull/34/head' of https://github.com/nette/utils
+cc369e16344a59e69b887e5197c4f101b7b8da73	not-for-merge	'refs/pull/34/merge' of https://github.com/nette/utils
+5f767c9432c98ff4e642cf3c236eac1cd82e3b71	not-for-merge	'refs/pull/35/head' of https://github.com/nette/utils
+2a8e1e29c7bc3467e9e75252bfbec80b8ad3b18f	not-for-merge	'refs/pull/36/head' of https://github.com/nette/utils
+6f10c742b0bd7f609d3f1dd22dc452bc20e53794	not-for-merge	'refs/pull/36/merge' of https://github.com/nette/utils
+29af0fe8238bc7466dad8815e0a273a896bfe1df	not-for-merge	'refs/pull/38/head' of https://github.com/nette/utils
+5f122e91e892242b80a5fa1279ea141fc819ed24	not-for-merge	'refs/pull/38/merge' of https://github.com/nette/utils
+b004f53f2edb2d27e8e791f594c5636784ef555e	not-for-merge	'refs/pull/39/head' of https://github.com/nette/utils
+4107878c9fe31948332ff18146b73947ce930c4e	not-for-merge	'refs/pull/39/merge' of https://github.com/nette/utils
+43b6e3ecc31c7ec1b49fca8b407f7e7e48abaa5a	not-for-merge	'refs/pull/4/head' of https://github.com/nette/utils
+4211387259c9206ab89a7e422320a63e0782a7f0	not-for-merge	'refs/pull/4/merge' of https://github.com/nette/utils
+f2677c6c7677b338ce9072500481b9e8ec5384e4	not-for-merge	'refs/pull/40/head' of https://github.com/nette/utils
+b42fcf2054de22e802a8f8913795b20a7f1b2b69	not-for-merge	'refs/pull/41/head' of https://github.com/nette/utils
+d5005d21fa73b3412e4a1f55bd5fd21ac7243b42	not-for-merge	'refs/pull/41/merge' of https://github.com/nette/utils
+b065fbfc2901d72048d052c5bb3e9656b8682153	not-for-merge	'refs/pull/43/head' of https://github.com/nette/utils
+62d04c48ddebabbc5b096743e59059caa6093d5f	not-for-merge	'refs/pull/43/merge' of https://github.com/nette/utils
+709a1e827d7adfea8994bdba59510f63c8a0dd86	not-for-merge	'refs/pull/44/head' of https://github.com/nette/utils
+4841b08ac2e82ab77bf18d7f63d0f827cf473854	not-for-merge	'refs/pull/45/head' of https://github.com/nette/utils
+085261000042aa054500e14f2071013d21c2300f	not-for-merge	'refs/pull/46/head' of https://github.com/nette/utils
+2b39c28acfc80c203773f8e9edaa31b3e5e4f2e8	not-for-merge	'refs/pull/47/head' of https://github.com/nette/utils
+29b600105876ffdc547e3082a60ba8e099cf6c67	not-for-merge	'refs/pull/5/head' of https://github.com/nette/utils
+17befb2046af362376406144d6de6414503f6e2a	not-for-merge	'refs/pull/5/merge' of https://github.com/nette/utils
+599ba66c550f32f654884da9776f0e2ada54fab7	not-for-merge	'refs/pull/50/head' of https://github.com/nette/utils
+91850a8418b68ce3202072af840479e2626882a0	not-for-merge	'refs/pull/50/merge' of https://github.com/nette/utils
+11c1cb1294b6a98a5f509a6f4905c94c3e706f89	not-for-merge	'refs/pull/51/head' of https://github.com/nette/utils
+8eb7579bbef97a854be423643185b33ca1731f14	not-for-merge	'refs/pull/51/merge' of https://github.com/nette/utils
+8e0fff1b27ec91671ef5001ed91570b1839cd577	not-for-merge	'refs/pull/52/head' of https://github.com/nette/utils
+22341df370bbb693d2268d6150ffe87934af838d	not-for-merge	'refs/pull/54/head' of https://github.com/nette/utils
+ec59a1426d15f1bdf41daf45035f2c2867f12174	not-for-merge	'refs/pull/54/merge' of https://github.com/nette/utils
+4b2ec84c1aae0dace2ac3c27c55d504cee48fb03	not-for-merge	'refs/pull/55/head' of https://github.com/nette/utils
+0e8c60cccef1f10dae04f1819851de5d5ac0107b	not-for-merge	'refs/pull/57/head' of https://github.com/nette/utils
+85c4cd90029a152c4d6b61a256edb3ca7cd45ae4	not-for-merge	'refs/pull/58/head' of https://github.com/nette/utils
+a7303e87ffedd4c7c939218c930cb1f38621a3ba	not-for-merge	'refs/pull/6/head' of https://github.com/nette/utils
+c75c72fd4fd27daf6e7d13cef35586ac769ea6b2	not-for-merge	'refs/pull/61/head' of https://github.com/nette/utils
+6d8f1dd0d58b4de97c03b0a36c2b988888c52a3c	not-for-merge	'refs/pull/61/merge' of https://github.com/nette/utils
+30c795e6556f9d0c32a56dcb4a5bc768ab6fd9d4	not-for-merge	'refs/pull/62/head' of https://github.com/nette/utils
+e7b1f7874d6d23a105880c5c948c5c1a5c74afbb	not-for-merge	'refs/pull/62/merge' of https://github.com/nette/utils
+f7936d8af8625fcbd6c131264f302f8142d0f24b	not-for-merge	'refs/pull/63/head' of https://github.com/nette/utils
+6aa8b24cab69e68fb108b2867b021724624cfea4	not-for-merge	'refs/pull/63/merge' of https://github.com/nette/utils
+67f4ff9e079c567c9c49046a963ec54efa895f65	not-for-merge	'refs/pull/64/head' of https://github.com/nette/utils
+e9844ed92d69f6d1749806ce3e134cf9df718c36	not-for-merge	'refs/pull/66/head' of https://github.com/nette/utils
+bd9088b5aaa20e2564af851b9bb641f95b3d15b0	not-for-merge	'refs/pull/67/head' of https://github.com/nette/utils
+d644ec256ee28c1e90b37f6ffaf1bab3f4e4478e	not-for-merge	'refs/pull/68/head' of https://github.com/nette/utils
+01d96827808fd878561f42cec5a2b338bf070bc0	not-for-merge	'refs/pull/68/merge' of https://github.com/nette/utils
+e26594328f29c6f379599c3e870ed3b4aee51d8b	not-for-merge	'refs/pull/69/head' of https://github.com/nette/utils
+15da6cc43cb27c312349d0c95bc43b92fd10c43f	not-for-merge	'refs/pull/69/merge' of https://github.com/nette/utils
+1c63e102bdd51aa86f7fb8376d0680200a33f3b8	not-for-merge	'refs/pull/7/head' of https://github.com/nette/utils
+b76885b6db526c9f11f1981f6cadaa360132cf5a	not-for-merge	'refs/pull/70/head' of https://github.com/nette/utils
+55894a7f7d911584b51a0a9ad56eb0541621552f	not-for-merge	'refs/pull/72/head' of https://github.com/nette/utils
+c545d2478dcb8b0b965cb01a8bf8f39cf337d06b	not-for-merge	'refs/pull/73/head' of https://github.com/nette/utils
+ee835bc6097561d6dbfbe4d30488fd1d4d4f3e99	not-for-merge	'refs/pull/73/merge' of https://github.com/nette/utils
+583121cdfb2a1d9af8e21774b718011c08855132	not-for-merge	'refs/pull/74/head' of https://github.com/nette/utils
+f5557ae633a578742e74ae74a05d5f4919b57c6c	not-for-merge	'refs/pull/75/head' of https://github.com/nette/utils
+a1adb6fd02a6557b7b96363ba973477b319d824a	not-for-merge	'refs/pull/76/head' of https://github.com/nette/utils
+4e666974a7e7c326c6e2fa597cf4ea79aee3e8c3	not-for-merge	'refs/pull/76/merge' of https://github.com/nette/utils
+408f983666fe86ceadb32d6c95ad8c224153ed35	not-for-merge	'refs/pull/77/head' of https://github.com/nette/utils
+4e3ebc8bccd0f71400522282caaacb0ceef09803	not-for-merge	'refs/pull/78/head' of https://github.com/nette/utils
+e535914bfa6049157eb88b4b51f9a173a687b804	not-for-merge	'refs/pull/79/head' of https://github.com/nette/utils
+de33c949d9a95b4bb4e7ca42c26d59e1a70e90b6	not-for-merge	'refs/pull/80/head' of https://github.com/nette/utils
+4a2a1fe40ce664f49147bf4d94bfa828f7a1d080	not-for-merge	'refs/pull/81/head' of https://github.com/nette/utils
+0165413ebed735fd5eda9246f789e9e1a6b5b9c4	not-for-merge	'refs/pull/82/head' of https://github.com/nette/utils
+6110bf599193e8254c2859a67b0fce5f521110ec	not-for-merge	'refs/pull/82/merge' of https://github.com/nette/utils
+e10aebc0764e26c0e49067153ed879fd0ba29221	not-for-merge	'refs/pull/84/head' of https://github.com/nette/utils
+73e381ba91e2b4025763c9c9705206331d096a12	not-for-merge	'refs/pull/85/head' of https://github.com/nette/utils
+14e6698b77a548515d68a1863b3c82674c854ace	not-for-merge	'refs/pull/85/merge' of https://github.com/nette/utils
+53b1df2680c5452cfd54102b7b54eea54748a1f8	not-for-merge	'refs/pull/86/head' of https://github.com/nette/utils
+71b89adf4a5f766c64c62057c0bc1c153d7edec1	not-for-merge	'refs/pull/87/head' of https://github.com/nette/utils
+05a3b32db5a125bece2ca37cdbc25e797b119c69	not-for-merge	'refs/pull/89/head' of https://github.com/nette/utils
+5b9bf3ec8eee1c307d1403acfc238fb48b4e3eac	not-for-merge	'refs/pull/89/merge' of https://github.com/nette/utils
+7864633b0559337147702bc9cdd0d0b212c4470d	not-for-merge	'refs/pull/9/head' of https://github.com/nette/utils
+c7974e93b51a52e50d2b29bf931cd5e582700ac9	not-for-merge	'refs/pull/90/head' of https://github.com/nette/utils
+ef1f76a92cd06a67a686df6cf5282a296f5461e3	not-for-merge	'refs/pull/90/merge' of https://github.com/nette/utils
+fbfaa9ab08244021fae54e958225a68faff7764f	not-for-merge	'refs/pull/91/head' of https://github.com/nette/utils
+901a87fd7fdf14534273465af979367ec9d7b6d0	not-for-merge	'refs/pull/91/merge' of https://github.com/nette/utils
+d12b3d7041ad44eaade5d803f3c5bad771611e74	not-for-merge	'refs/pull/92/head' of https://github.com/nette/utils
+2f4396f37369adfefba7f2034565c41b7102533d	not-for-merge	'refs/pull/93/head' of https://github.com/nette/utils
+52ebc94681a0b66f3e755add36e7a6dbfd0336ea	not-for-merge	'refs/pull/94/head' of https://github.com/nette/utils
+69ef1dbbe222faf172cc4610b05c006cde7b89ef	not-for-merge	'refs/pull/95/head' of https://github.com/nette/utils
+f89389ba7e469160d641b93307b263010e2b35dd	not-for-merge	'refs/pull/96/head' of https://github.com/nette/utils
+9cd7d72e92d613407bf8d336a49225566c748a79	not-for-merge	'refs/pull/97/head' of https://github.com/nette/utils
+5d4e3bc298c7f28e2e2743d5a824c8bdac17f470	not-for-merge	'refs/pull/99/head' of https://github.com/nette/utils
+bf7c027f6714de985e403222fb5cf7ca7b672db2	not-for-merge	tag 'v2.2.0' of https://github.com/nette/utils
+7417d27efdf31ce9bf9c6dbe639b284e412f602f	not-for-merge	tag 'v2.2.1' of https://github.com/nette/utils
+736b50e7b98cfff461d2ff6165b32f79a4116969	not-for-merge	tag 'v2.2.2' of https://github.com/nette/utils
+30fa5fce6e7367e6d986b3724a76e7efba20bf2a	not-for-merge	tag 'v2.2.3' of https://github.com/nette/utils
+fde5f0f14ac820253d444cccd3fafdf37e5beb5d	not-for-merge	tag 'v2.2.4' of https://github.com/nette/utils
+b91d6cdc1eba357abf5e989b27f3394084984b75	not-for-merge	tag 'v2.2.5' of https://github.com/nette/utils
+d958f2ecbd5abdbcbf5b7f766c76264e54a4a858	not-for-merge	tag 'v2.2.6' of https://github.com/nette/utils
+8aa17917814b8f7d98cd8cf615b22d543eaf700c	not-for-merge	tag 'v2.2.7' of https://github.com/nette/utils
+ecdf78295fe44954a700db807d98054584e11b31	not-for-merge	tag 'v2.2.8' of https://github.com/nette/utils
+4fb9782fac3365e4bd3902c9dc55bb39f2837823	not-for-merge	tag 'v2.3.0' of https://github.com/nette/utils
+14afe30edeba813d73eb580573f239541c84a52f	not-for-merge	tag 'v2.3.1' of https://github.com/nette/utils
+72011e95a38f6cfbad9ad2b6404e0c9a40609bfb	not-for-merge	tag 'v2.3.10' of https://github.com/nette/utils
+0bc38d58da25d387448f63a7bd6dc3ee913641b9	not-for-merge	tag 'v2.3.11' of https://github.com/nette/utils
+48b59efdbe4cee68d985727550b6bb1c7d68ec74	not-for-merge	tag 'v2.3.2' of https://github.com/nette/utils
+66d295794ec83123b3b9e94769a394f5b9a35e84	not-for-merge	tag 'v2.3.3' of https://github.com/nette/utils
+1dceedff49c98736e644127dc0ea4119e0b65bae	not-for-merge	tag 'v2.3.4' of https://github.com/nette/utils
+76f434fa3d63b39578563be625778454f6ef5f93	not-for-merge	tag 'v2.3.5' of https://github.com/nette/utils
+a91088459be6035f5fbdd93bd466329f2b7b7f57	not-for-merge	tag 'v2.3.6' of https://github.com/nette/utils
+b8485a5f9ab523939422e530aaf0dd035e5f0506	not-for-merge	tag 'v2.3.7' of https://github.com/nette/utils
+2785e70efff7ad29638d4e63a3d575d94779c15d	not-for-merge	tag 'v2.3.8' of https://github.com/nette/utils
+27c7d82122a890fcd6ec651a5d778d373c3e3fc5	not-for-merge	tag 'v2.3.9' of https://github.com/nette/utils
+81be3b5771781517d3eeb196be5a8ebb533c4020	not-for-merge	tag 'v2.4.0' of https://github.com/nette/utils
+f444521fadea6c6e2548a94504cc44ee43758484	not-for-merge	tag 'v2.4.1' of https://github.com/nette/utils
+945b3e831f3b0534924086d939e449df3abc546c	not-for-merge	tag 'v2.4.10' of https://github.com/nette/utils
+1f6eb557696b8cf94f15f5577dd9a1992db6b605	not-for-merge	tag 'v2.4.2' of https://github.com/nette/utils
+a308ab496edb356dba61a5d712a5d7855949e6d9	not-for-merge	tag 'v2.4.3' of https://github.com/nette/utils
+eca5c2c281c420d946e4563666d10052a3813dc2	not-for-merge	tag 'v2.4.4' of https://github.com/nette/utils
+8604c88b0775305cc9e2c3cfa0ee9e1a9e872022	not-for-merge	tag 'v2.4.5' of https://github.com/nette/utils
+22cc04979b8dea4dcc4a280d0f4a813d60295e11	not-for-merge	tag 'v2.4.6' of https://github.com/nette/utils
+4f0869599c8376fe7f0de409abffee0a0cf53107	not-for-merge	tag 'v2.4.7' of https://github.com/nette/utils
+7428cd5dcd12f1a40ec6ef2592f5a5ed59a0e87b	not-for-merge	tag 'v2.4.8' of https://github.com/nette/utils
+627851bf58e7b86b2316d1066d01a5d79de1843f	not-for-merge	tag 'v2.4.9' of https://github.com/nette/utils
+15fdf9594d835b575ec51981577422c86c291347	not-for-merge	tag 'v2.5.0' of https://github.com/nette/utils
+1c5ed573d1f0fd4c26dce70803b707ea0588b74a	not-for-merge	tag 'v2.5.1' of https://github.com/nette/utils
+5418ddf84401cd12f1fad4f7294485571e51ce32	not-for-merge	tag 'v2.5.2' of https://github.com/nette/utils
+bbebec75b3394e3e0573f3dbbfdad0b346ce3354	not-for-merge	tag 'v2.5.3' of https://github.com/nette/utils
+338234097607f16f0e9c3aafdbff7a18b50342ad	not-for-merge	tag 'v2.5.4' of https://github.com/nette/utils
+dc820b45ed545a558f3598c001864101419e8c92	not-for-merge	tag 'v2.5.5' of https://github.com/nette/utils
+40698fcaf4a388e590761a3e9cf22f11d2a534c1	not-for-merge	tag 'v2.5.6' of https://github.com/nette/utils
+67713eede245444a6fb59868b0922bcf3bd1957e	not-for-merge	tag 'v2.5.7' of https://github.com/nette/utils
+a9b42b659fe0717934c3bdce91af640ccfd45c3f	not-for-merge	tag 'v3.0.0' of https://github.com/nette/utils
+c9008c9ceb78f1ca4d843464358354e8c6816107	not-for-merge	tag 'v3.0.1' of https://github.com/nette/utils
+f75e0d5d9bf4325c40f34368f4a5e8598025a658	not-for-merge	tag 'v3.0.2' of https://github.com/nette/utils
+f705c45bfeaf6c8053e2eb0dfeb2b86d29a6adfa	not-for-merge	tag 'v3.0.3' of https://github.com/nette/utils
+55433a1044af0461888d406564c327f75041797b	not-for-merge	tag 'v3.0.4' of https://github.com/nette/utils
+681dffdf0871415d60c54586b024bf0de0e0841f	not-for-merge	tag 'v3.1.0' of https://github.com/nette/utils
+f64c35fe2e32adacf8c59670c78443094aca42ab	not-for-merge	tag 'v3.1.1' of https://github.com/nette/utils
+fe7e72f6a60f4c29faf7407f83d3844e3ae7fbe2	not-for-merge	tag 'v3.1.2' of https://github.com/nette/utils
+1816b33a5cb874694d0625a37c680630ed7aecd8	not-for-merge	tag 'v3.1.3' of https://github.com/nette/utils
+7904ce988c32c3c62dd330c9dd6273fb5e71cb45	not-for-merge	tag 'v3.1.4' of https://github.com/nette/utils
+7b4dddc170ca0631f783d00c8397356031dbae3d	not-for-merge	tag 'v3.1.6' of https://github.com/nette/utils
+cef85229a6b80d8b251476e4cbb613bd5e01d259	not-for-merge	tag 'v3.2.0' of https://github.com/nette/utils
+06efc94e48ff3e34face9ae24d1f070136147421	not-for-merge	tag 'v3.2.1' of https://github.com/nette/utils
+ab97dede16bc7f5b6eb8e4adee747611babd1665	not-for-merge	tag 'v3.2.10' of https://github.com/nette/utils
+c9184319c8f0146153ce9a68601a58e66bd93a57	not-for-merge	tag 'v3.2.2' of https://github.com/nette/utils
+413886e5ceb1db8219985e3ea049b62d029711d9	not-for-merge	tag 'v3.2.3' of https://github.com/nette/utils
+ba3bc2c2a44fa50f2f9b6f09b162d9225af45622	not-for-merge	tag 'v3.2.5' of https://github.com/nette/utils
+ed3d05e3dfff804ad28a64b8cef510ee35389463	not-for-merge	tag 'v3.2.6' of https://github.com/nette/utils
+06589a329b6cc7980d75ab92960048de6ff10d38	not-for-merge	tag 'v3.2.7' of https://github.com/nette/utils
+6797adcc4943d7134ea1e9b315f550a6317c4836	not-for-merge	tag 'v3.2.8' of https://github.com/nette/utils
+e833038b63f916a3507a7a1ebd1c3195609b25d1	not-for-merge	tag 'v3.2.9' of https://github.com/nette/utils
+ded188212e2c27531dcaff45d86a17cd73419317	not-for-merge	tag 'v4.0.0' of https://github.com/nette/utils
+d774ad9a9443a003aba26a1a55d3f61b8124a3b6	not-for-merge	tag 'v4.0.1' of https://github.com/nette/utils
+78774d97864690d01ca2e50556db0054f3fbf6cb	not-for-merge	tag 'v4.0.10' of https://github.com/nette/utils
+282f8f9458d6132c824c57f80087a8b313164176	not-for-merge	tag 'v4.0.2' of https://github.com/nette/utils
+e7115072316378693d192899da2652e09fd61968	not-for-merge	tag 'v4.0.3' of https://github.com/nette/utils
+29c13b78c54e60c3b70cf5e64a804f3a2473eddf	not-for-merge	tag 'v4.0.4' of https://github.com/nette/utils
+8676e13c73611b76df5fdb9481d2f655a0b82e1a	not-for-merge	tag 'v4.0.5' of https://github.com/nette/utils
+6902059d42c7660a490d0748a300d0a0d1603c28	not-for-merge	tag 'v4.0.6' of https://github.com/nette/utils
+a9d83a73419200aa3524bbc0c1290d8b63d75490	not-for-merge	tag 'v4.0.7' of https://github.com/nette/utils
+bab26bde845e84b47b5e57e70cdc53fcb7fe8e2d	not-for-merge	tag 'v4.0.8' of https://github.com/nette/utils
+ef8dd85e8a0b615b8dba6cda82135c88a36adade	not-for-merge	tag 'v4.0.9' of https://github.com/nette/utils
+dd8da24d9aca9d0372f5830e5d0bb80f1a855991	not-for-merge	tag 'v4.1.0' of https://github.com/nette/utils
+917e7384ae58a30fedae01ed9ece2d3766da71a6	not-for-merge	tag 'v4.1.1' of https://github.com/nette/utils
+93f8033963862e1a307eaf2c63c561413c516c5f	not-for-merge	tag 'v4.1.2' of https://github.com/nette/utils
+cb0fc6dcd0c753e3d996b2e74196314adb09019d	not-for-merge	tag 'v4.1.3' of https://github.com/nette/utils

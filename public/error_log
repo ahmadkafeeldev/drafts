@@ -1,0 +1,19 @@
+[14-Dec-2023 11:38:41 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\FoodCourseController, because the name is already in use in /home/st8miyzto6mk/public_html/cinch/app/Http/Controllers/Admin/FoodCourseController.php on line 0
+[14-Dec-2023 11:39:29 UTC] PHP Fatal error:  Cannot declare class App\Http\Controllers\FoodCourseController, because the name is already in use in /home/st8miyzto6mk/public_html/cinch/app/Http/Controllers/Admin/FoodCourseController.php on line 0
+[03-Sep-2025 13:53:03 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:04 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:24 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:26 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:28 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:30 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:30 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:33 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:33 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:34 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:35 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:53:48 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:54:29 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 13:59:33 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
+[03-Sep-2025 14:12:19 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/firstpro/public_html/drafts/app/Models/TMPlanModel.php on line 17
