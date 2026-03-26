@@ -14,10 +14,10 @@ if (!olGlobal) {
 // Register EPSG:27700 definition for proj4-backed transforms
 olGlobal.proj.proj4.register(proj4);
 const proj27700 = olGlobal.proj.get(EPSG_27700);
-const viewCenterRaw = olGlobal.proj.transform([-0.1500, 51.4060], 'EPSG:4326', EPSG_27700).slice();
+const viewCenterRaw = olGlobal.proj.transform([-0.1060, 51.5140], 'EPSG:4326', EPSG_27700).slice();
 const viewCenter = (Array.isArray(viewCenterRaw) && viewCenterRaw.length === 2 && isFinite(viewCenterRaw[0]) && isFinite(viewCenterRaw[1]))
     ? viewCenterRaw
-    : [539500, 169300]; // rough Bromley area
+    : [531000, 182000]; // Specific London area coordinates
 
 function to27700([lon, lat]) {
     return olGlobal.proj.transform([lon, lat], 'EPSG:4326', EPSG_27700);
@@ -157,7 +157,7 @@ const osm3857 = new ol.source.XYZ({
 const map = new ol.Map({
     target: 'map',
     layers: [new ol.layer.Tile({ source: osm3857 })],
-    view: new ol.View({ projection: proj27700, center: viewCenter, zoom: 14, maxZoom: 20, minZoom: 4 }),
+    view: new ol.View({ projection: proj27700, center: viewCenter, zoom: 15, maxZoom: 20, minZoom: 10 }),
     // Some OpenLayers bundles may not expose ol.control.defaults().
     // Add controls manually for maximum compatibility.
     controls: []
